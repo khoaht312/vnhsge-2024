@@ -1,7 +1,8 @@
-![image](https://github.com/user-attachments/assets/2fbe3d9a-66c7-4f99-a475-d42278284ddf)# Điểm thi kỳ thi tốt nghiệp THPT 2024 (High School Graduation Examination 2024)
+# Điểm thi kỳ thi tốt nghiệp THPT 2024 (High School Graduation Examination 2024)
 - [x] Phổ điểm môn thi
 - [x] Phổ điểm khối thi
 - [x] So sánh điểm khối thi 2023 - 2024
+- [x] Dự đoán điểm chuẩn
 ## Môn thi
 ![image](https://github.com/user-attachments/assets/0b686d27-0175-4422-b204-648134947001)
 ![image](https://github.com/user-attachments/assets/6163e969-a053-4409-8bab-d05320f20f6c)
