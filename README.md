@@ -1,28 +1,40 @@
-# Điểm thi kỳ thi tốt nghiệp THPT 2024 (High School Graduation Examination 2024) [Lọc thí sinh ảo]
+# Điểm thi kỳ thi tốt nghiệp THPT 2024 (High School Graduation Examination 2024) [Lọc điểm thi ảo]
 
 ## Môn thi
+![image](https://github.com/user-attachments/assets/0b686d27-0175-4422-b204-648134947001)
+![image](https://github.com/user-attachments/assets/6163e969-a053-4409-8bab-d05320f20f6c)
+![image](https://github.com/user-attachments/assets/d8a7c46c-5c04-45c4-b8b2-2e4647961542)
+![image](https://github.com/user-attachments/assets/7e58f344-98e1-4a1d-8a8e-a9281cb00c15)
+![image](https://github.com/user-attachments/assets/c350b006-4992-4808-96b9-1709c58d2587)
+![image](https://github.com/user-attachments/assets/847654f8-9659-40db-a13a-b54dc166759d)
+![image](https://github.com/user-attachments/assets/439db9f2-face-42a0-a163-be381f33dee7)
+![image](https://github.com/user-attachments/assets/92fde063-065f-4ba7-8ae8-e5d35ef4d2e8)
 
+- Xét toàn bộ thí sinh
+  
 |Môn|Tỉ lệ thí sinh có điểm thi < 7|Tỉ lệ thí sinh chọn môn thi là môn xét tuyển|
 |-|-|-
-|Toán|
-|Văn|
-|Anh|
-|Lý|
-|Hóa|
-|Sinh|
-|Sử|
-|Địa|
+|Toán|55%|41%|
+|Văn|35%|79%|
+|Anh|75%|28%|
+|Lý|48%|48%|
+|Hóa|50%|54%|
+|Sinh|67%|20%|
+|Sử|57%|88%|
+|Địa|38%|88%|
 
-|Môn|Điểm trung bình ± (Độ lệch chuẩn) |Điểm yếu vị|
+- Xét điểm môn thi thuộc khối thi có điểm cao nhất
+  
+|Môn|Điểm trung bình ± Độ lệch chuẩn |Điểm yếu vị|
 |-|-|-
-|Toán|
-|Văn|
-|Anh|
-|Lý|
-|Hóa|
-|Sinh|
-|Sử|
-|Địa|
+|Toán|7.48 + 0.97|8.0|
+|Văn| 7.29 ± 1.38|8.0|
+|Anh|7.15 ± 1.65|8.6|
+|Lý|7.74 ± 0.98|8.0|
+|Hóa|7.5 ± 1.29|8.0|
+|Sinh|7.29 ± 1.09|7.75|
+|Sử| 6.62 ± 1.47|6.75|
+|Địa|7.25 ± 1.28|7.25| 
 
 ## Khối thi
 
