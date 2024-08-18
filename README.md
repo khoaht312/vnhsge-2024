@@ -139,5 +139,11 @@ Bách phân vị (Percentile)
 |13	|CTTT	|25.4	|25.7	|0	|34	|13	|17|-0.15
 |14	|MTVM	|25.4	|25.7	|9	|14	|1	|5|+0.8
 
+```
+- Chính xác: 2
+- Chênh lệch 0.01 - 0.1: 5
+- Chênh lệch 0.11 - 0.5: 5
+- Chênh lệch 0.55- 1: 2
+```
 ![image](https://github.com/user-attachments/assets/3d39d02a-ffa1-4b88-a221-84e3fd45b20a)
 
